@@ -72,7 +72,7 @@ class App extends Component {
   }
 
   componentDidMount() {
-    this.createTestAccounts()
+    //this.createTestAccounts()
   }
 
   createTestAccounts() {

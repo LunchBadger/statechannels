@@ -264,6 +264,8 @@ hub sends al 0.004 ETH
 
 ### Instructions
 
+[Google Doc with Detailed Instructions Here](https://docs.google.com/document/d/1xPQHBoR8IbG6KPWmgpZTm0VUDwDOPh-pKmvwnKe9lKs/edit?usp=sharing)
+
 In terminal 1, start testrpc
 
 ```bash
